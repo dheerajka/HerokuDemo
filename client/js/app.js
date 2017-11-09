@@ -47,7 +47,7 @@ function showSessionDetails(sessionId) {
                 '<div class="page">' +
                 '<header class="bar bar-nav">' +
                 '<a class="btn btn-link btn-nav pull-left" href="#"><span class="icon icon-left-nav"></span>Back</a>' +
-            '<h1 class="title">Sessions</h1>' +
+            '<h1 class="title">Dheeraj Sessions</h1>' +
                 '</header>' +
                 '<div class="content">' +
                     '<div class="card">' +
